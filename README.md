@@ -189,4 +189,9 @@ main()
 ![Screenshot (8)](https://github.com/00General00/ESA-/assets/73006104/914fac02-5ecc-4a02-8599-019b3cdeb851)
 
 
+![Screenshot (10)](https://github.com/00General00/ESA-/assets/73006104/3266c746-7ced-4602-8af9-ab5dff05a6c5)
+
+![Screenshot (12)](https://github.com/00General00/ESA-/assets/73006104/c0dc10e0-5d5c-45af-812e-6113dec9fd7f)
+
+![Screenshot (14)](https://github.com/00General00/ESA-/assets/73006104/7244264f-f4ce-489c-9de2-828ded06c0b2)
 
