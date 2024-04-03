@@ -2,12 +2,12 @@
 from datetime import datetime
 events = []
 
-# sorts the list and reads the list out
+#sorts the list and reads the list out
 def list_events():
     if not events:
         print("No events found.")
         return
-# used lambda instead of a normal function. Just testing things out.
+#used lambda instead of a normal function. Just testing things out.
     sorted_events = sorted(events, key=lambda x: (x['date'], x['time']))
     for event in sorted_events:
         print(
